@@ -56,7 +56,7 @@ Tabulation:1
 |4|OFF|OFF|ON|
 
 |components|protiens|specification
- |----:|----:|----:|----:|
+ |----:|----:|----:|
  |Ac supply|Vsine|Amplitude=230v|
  |two way switch|spdt|frequency=50Hz|
  |lamp|animated|230v|
